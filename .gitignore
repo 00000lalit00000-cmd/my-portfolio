@@ -1,0 +1,7 @@
+# keep the repo clean — only portfolio source
+profile-source.png
+docx-photo.jpg
+.DS_Store
+Thumbs.db
+.vscode/
+*.log

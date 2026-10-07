@@ -168,3 +168,30 @@ img{max-width:100%}
 @media(max-width:640px){.hero{padding-top:8rem}.hero-stats{grid-template-columns:1fr 1fr}.skills-grid,.edu-grid,.cert-grid,.awards-row,.doing-grid{grid-template-columns:1fr}.float-chip{font-size:.7rem}.chip-1{left:-4px}.chip-2{right:-4px}.chip-3{left:-4px}.scroll-hint{display:none}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}}
 
+.btn-hire{background:linear-gradient(92deg,#ffd166,#ff5ca8 55%,#7c5cff);color:#1a0b00;font-weight:800;padding:.6rem 1.15rem;font-size:.92rem;border-radius:12px;box-shadow:0 0 0 2px rgba(255,209,102,.55),0 10px 28px rgba(255,92,168,.5);animation:hirePulse 2.2s ease-in-out infinite}
+.btn-hire:hover{color:#000;background:linear-gradient(92deg,#fff,#ffd166);box-shadow:0 0 0 3px #fff,0 14px 34px rgba(255,209,102,.65)}
+@keyframes hirePulse{50%{box-shadow:0 0 0 5px rgba(255,209,102,.28),0 10px 30px rgba(255,92,168,.6)}}
+.btn-hire-big{background:linear-gradient(92deg,#ffd166,#ff5ca8 55%,#7c5cff);color:#1a0b00;font-weight:800;font-size:1.02rem;padding:1rem 1.8rem;border-radius:14px;box-shadow:0 0 0 2px rgba(255,209,102,.55),0 14px 34px rgba(255,92,168,.5);animation:hirePulse 2.2s ease-in-out infinite}
+.btn-hire-big:hover{transform:translateY(-3px) scale(1.02);color:#000}
+.btn-hire-big:disabled{opacity:.6;cursor:wait;animation:none}
+.btn-whatsapp{background:linear-gradient(135deg,#22c55e,#16a34a);color:#fff;font-weight:800;box-shadow:0 12px 28px rgba(34,197,94,.4)}
+.btn-whatsapp:hover{background:linear-gradient(135deg,#4ade80,#22c55e)}
+.whatsapp-float{position:fixed;right:20px;bottom:80px;z-index:120;width:58px;height:58px;border-radius:50%;display:grid;place-items:center;color:#fff;background:linear-gradient(135deg,#25d366,#128c7e);box-shadow:0 12px 32px rgba(37,211,102,.55);transition:transform .25s}
+.whatsapp-float:hover{transform:scale(1.1) rotate(6deg)}
+.wa-tip{position:absolute;right:68px;top:50%;transform:translateY(-50%);white-space:nowrap;background:#0b1230;border:1px solid var(--stroke);padding:.4rem .8rem;border-radius:10px;font-size:.78rem;font-weight:700;opacity:0;pointer-events:none;transition:.25s}
+.whatsapp-float:hover .wa-tip{opacity:1}
+.lowcode-section{position:relative;overflow:hidden}
+.lowcode-section:before{content:"";position:absolute;inset:0;background:radial-gradient(600px 300px at 50% 0%,rgba(255,209,102,.12),transparent 70%);pointer-events:none}
+.eyebrow-glow{background:rgba(255,209,102,.14);border-color:rgba(255,209,102,.55);color:#ffe9b0;box-shadow:0 0 24px rgba(255,209,102,.25)}
+.lowcode-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem}
+.lowcode-card{position:relative;overflow:hidden;border:1.5px solid rgba(255,209,102,.35)}
+.lowcode-card:after{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--p4),var(--p3),var(--p1))}
+.lowcode-card .lc-icon{font-size:2rem;margin-bottom:.5rem}
+.form-note.ok{color:#4ade80;font-weight:600}
+.form-note.err{color:#ff8fa3;font-weight:600}
+.cert-group-title{font-size:1.15rem;margin:1.8rem 0 1rem;display:flex;align-items:center;gap:.6rem}
+.cert-group-title span{font-size:.85rem;color:var(--p4);background:rgba(255,209,102,.12);border:1px solid rgba(255,209,102,.4);padding:.2rem .7rem;border-radius:99px}
+.cert-grid{margin-bottom:.5rem}
+@media(max-width:1020px){.lowcode-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:640px){.lowcode-grid{grid-template-columns:1fr}.whatsapp-float{bottom:86px}}
+

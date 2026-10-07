@@ -1,0 +1,179 @@
+{
+  "profile": {
+    "name": "Lalit Patil",
+    "role": "UI / Front-End Developer",
+    "title": "Senior Engineering Lead",
+    "email": "lalitpatil80@gmail.com",
+    "phoneDisplay": "+91 97309 03411",
+    "phoneLink": "+919730903411",
+    "whatsapp": "https://wa.me/919730903411?text=Hi%20Lalit%2C%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20talk.",
+    "location": "Pune, Maharashtra, India",
+    "locationShort": "Pune, MH",
+    "linkedin": "https://www.linkedin.com/in/lalitpatil1989",
+    "linkedinLabel": "linkedin.com/in/lalitpatil1989",
+    "linkedinShort": "lalitpatil1989",
+    "dob": "01-Oct-1989",
+    "current": "Persistent Systems Ltd., Pune (Apr 2022 — Present)",
+    "currentShort": "Persistent Systems Ltd. • Since Apr 2022",
+    "photo": "assets/profile.png",
+    "summary": "Self-motivated IT professional with 10+ years of expertise in Angular, ReactJs, TypeScript, JavaScript, HTML/CSS and responsive web development. Proven leader with strong client interaction, code review and team-building skills.",
+    "snapshot": "Self-motivated IT professional with 10+ years building elegant, accessible, high-performance interfaces. I analyse user stories, design systems, implement functionality, and ship with zero code-review defects.",
+    "availability": "Open to Senior UI / Lead roles"
+  },
+  "stats": [
+    { "value": 12, "suffix": "+", "label": "Years Experience" },
+    { "value": 5, "suffix": "", "label": "Companies" },
+    { "value": 23, "suffix": "", "label": "Certifications" },
+    { "value": 5, "suffix": "", "label": "Awards Won" }
+  ],
+  "typedRoles": ["UI / Front-End Developer", "Senior Engineering Lead", "ReactJS Specialist", "Angular Expert", "TypeScript Craftsman", "Low-Code / No-Code Builder", "Python Developer", "Responsive UI Magician"],
+  "marquee": ["ReactJS", "Angular", "TypeScript", "JavaScript ES6", "HTML5", "CSS3", "SCSS", "NodeJS", "jQuery", "PHP", "Python (1 yr)", "Low-Code / No-Code", "Material UI", "MFA/SSO", "AWS to Azure", "Git - SVN"],
+  "about": {
+    "tags": ["Client Interaction", "System Design", "Code Review", "Team Building", "Mentoring", "Agile"],
+    "info": [
+      { "k": "Name", "v": "Lalit Patil" },
+      { "k": "Role", "v": "UI / Front-End Developer — Senior Engineering Lead" },
+      { "k": "Email", "v": "lalitpatil80@gmail.com", "href": "mailto:lalitpatil80@gmail.com" },
+      { "k": "Phone", "v": "+91 97309 03411", "href": "tel:+919730903411" },
+      { "k": "WhatsApp", "v": "+91 97309 03411 — chat now", "href": "https://wa.me/919730903411" },
+      { "k": "Location", "v": "Pune, Maharashtra, India" },
+      { "k": "LinkedIn", "v": "linkedin.com/in/lalitpatil1989", "href": "https://www.linkedin.com/in/lalitpatil1989" },
+      { "k": "D.O.B.", "v": "01-Oct-1989" },
+      { "k": "Current", "v": "Persistent Systems Ltd., Pune (Apr 2022 — Present)" }
+    ],
+    "strengths": [
+      { "icon": "⚛", "t": "React and Angular Apps", "d": "Migration (Ember to React), MFA/SSO, design systems, Material UI." },
+      { "icon": "🎨", "t": "Responsive UI", "d": "HTML5, CSS3, SCSS, cross-browser and laptop/desktop/tablet perfect." },
+      { "icon": "☁", "t": "Cloud Aware", "d": "Partnered with cloud team on AWS to Azure migration, QA and deployments." },
+      { "icon": "🤝", "t": "Leadership", "d": "Teams of 5-12, conflict handling, knowledge sharing, client reviews." }
+    ],
+    "toolbox": "Frameworks: Angular 2/6/14 • ReactJs • NodeJs • jQuery | Languages: TypeScript • JavaScript • ES6 • PHP • Python (1 yr) | Markup: HTML5 • CSS3 • SCSS | Editors: VS Code • Sublime • WebStorm • Atom | Version Ctrl: Git • SVN | Merge: Beyond Comparator • TortoiseMerge | E-Learning: Flash • Storyline | Rapid: Low-Code/No-Code (Storyline, LMS, GenAI)"
+  },
+  "experience": [
+    {
+      "date": "Apr 2022 — Present", "badge": "Current", "title": "Senior Engineering Lead",
+      "company": "Persistent Systems Ltd. · Pune, Maharashtra",
+      "points": [
+        "Lead / UI full-stack developer (ReactJS, Angular, NodeJS, TypeScript) — analysed user stories and implemented functionality.",
+        "Worked on MFA and SSO integration.",
+        "Led ReactJS migration from Ember codebase per client requirements; partnered with cloud team for AWS to Azure migration.",
+        "Daily client interaction for requirement analysis, system design and problem solutions.",
+        "Assured zero code-review defects; timely QA follow-up, deployment and knowledge sharing.",
+        "Effective conflict handling; active in review calls and meetings."
+      ],
+      "tags": ["ReactJS", "Angular", "NodeJS", "TypeScript", "MFA/SSO", "Azure", "Leadership"]
+    },
+    {
+      "date": "May 2020 — Apr 2022", "title": "Senior Software Engineer",
+      "company": "HCL Technologies Pvt. Ltd. · Pune, Maharashtra",
+      "points": [
+        "Developed E-commerce UI using HTML5, CSS3, SCSS, ReactJS, TypeScript and Material UI per client expectations.",
+        "Requirement analysis, system design and implementation; assured zero code-review defects.",
+        "Built team effectiveness; actively participated in client review calls and meetings."
+      ],
+      "tags": ["ReactJS", "SCSS", "Material UI", "E-commerce"]
+    },
+    {
+      "date": "Jun 2018 — May 2020", "title": "Development Software Engineer",
+      "company": "Mphasis Ltd. · Mumbai, Maharashtra",
+      "points": [
+        "Developed RLMS web application UI using HTML5, CSS3, Angular 4+, TypeScript and Angular Material.",
+        "Ensured cross-browser and cross-device (Laptop/Desktop/Tablet) compatibility.",
+        "Managed team of 5-8 members; resolved issues across Dev, SIT, UAT and Production."
+      ],
+      "tags": ["Angular 4+", "Angular Material", "RLMS", "Team of 8"]
+    },
+    {
+      "date": "Oct 2015 — Jun 2018", "title": "Software Engineer",
+      "company": "Indecomm Global Services Pvt. Ltd. · Pune, Maharashtra",
+      "points": [
+        "Developed adaptive/responsive E-Learning using HTML5, CSS3, JavaScript, jQuery, TweenMax and TimelineMax animations.",
+        "Cross-browser/device compatibility and LMS issue resolution.",
+        "Managed team of 7-12; met all delivery dates."
+      ],
+      "tags": ["jQuery", "TweenMax", "E-Learning", "LMS"]
+    },
+    {
+      "date": "Jul 2014 — Oct 2015", "title": "UI Developer",
+      "company": "Advik Technology Pvt. Ltd. · Pune, Maharashtra",
+      "points": [
+        "Developed web application UI using HTML5, CSS3, JavaScript per design specs and client guidelines.",
+        "Ensured accessibility and cross-browser compatibility.",
+        "Resolved UI-to-business-layer integration issues."
+      ],
+      "tags": ["HTML5", "CSS3", "JavaScript", "Accessibility"]
+    }
+  ],
+  "skills": {
+    "frameworks": [
+      { "name": "Angular 2/6/14", "pct": 95 },
+      { "name": "ReactJS", "pct": 96 },
+      { "name": "NodeJS", "pct": 85 },
+      { "name": "jQuery", "pct": 90 }
+    ],
+    "languages": [
+      { "name": "TypeScript", "pct": 94 },
+      { "name": "JavaScript / ES6", "pct": 96 },
+      { "name": "HTML5 / CSS3 / SCSS", "pct": 98 },
+      { "name": "PHP", "pct": 70 },
+      { "name": "Python (1 yr)", "pct": 60 }
+    ],
+    "workflow": ["VS Code", "Sublime", "WebStorm", "Atom", "Git", "SVN", "Beyond Comparator", "TortoiseMerge", "Flash", "Storyline", "Material UI", "Angular Material", "TweenMax", "TimelineMax", "MFA", "SSO", "AWS", "Azure", "Responsive", "Accessibility", "GitHub Copilot", "Python", "Low-Code/No-Code"],
+    "aiEdge": "GenAI Foundation • GitHub Copilot Certified • Angular-with-AI Level 4 — I ship faster with AI-assisted refactors, tests and reviews without compromising quality."
+  },
+  "lowcode": {
+    "eyebrow": "Low-Code / No-Code — rapid delivery superpower",
+    "title": "Ship in days, not months.",
+    "points": [
+      { "icon": "⚡", "t": "Rapid UI delivery", "d": "Storyline, LMS authoring tools and AI-assisted scaffolding to prototype and ship interfaces fast." },
+      { "icon": "🧩", "t": "E-Learning at scale", "d": "Adaptive, responsive modules with Flash/Storyline — cross-browser, LMS-ready, delivered on time." },
+      { "icon": "🤖", "t": "AI-accelerated builds", "d": "GenAI + GitHub Copilot + Angular-with-AI (L4) to generate, review and harden production code." },
+      { "icon": "☁", "t": "Enterprise glue", "d": "MFA/SSO integrations and AWS-to-Azure migrations coordinated with low-friction, config-first approaches." }
+    ]
+  },
+  "education": [
+    { "icon": "🎓", "date": "Jul 2010 — Jun 2013", "title": "MCA — Master of Computer Applications", "place": "Sant Gadge Baba Amravati University" },
+    { "icon": "💻", "date": "Jul 2007 — Jun 2010", "title": "B.Sc. Computer Science", "place": "SMA Science College, Chalisgaon" },
+    { "icon": "🔬", "date": "Jul 2006 — Jul 2007", "title": "12th Science (HSC)", "place": "SSMM College, Pachora" },
+    { "icon": "📚", "date": "Until Jun 2005", "title": "10th SSC (Vocational)", "place": "SGS High School, Pachora" }
+  ],
+  "certificationsExternal": [
+    { "year": "Feb 2026", "icon": "☁", "title": "Microsoft Certified: Azure AI Fundamentals", "org": "Microsoft" },
+    { "year": "Apr 2026", "icon": "🧠", "title": "Generative AI Leader", "org": "Google" },
+    { "year": "May 2026", "icon": "🤖", "title": "Claude 101", "org": "Anthropic" },
+    { "year": "Jun 2026", "icon": "🔌", "title": "Claude with the Anthropic API", "org": "Anthropic" },
+    { "year": "Jul 2026", "icon": "🐙", "title": "GitHub Copilot", "org": "GitHub (Microsoft)" },
+    { "year": "Sep 2026", "icon": "☁", "title": "Microsoft Certified: Azure AI Fundamentals (beta)", "org": "Microsoft" }
+  ],
+  "certificationsInternal": [
+    { "year": "Aug 2026", "icon": "🚀", "title": "Quadlift Foundation 5.x — Assessment Level 1", "org": "Persistent Systems" },
+    { "year": "Aug 2026", "icon": "🐙", "title": "Code Assist (GitHub Copilot) — Assessment Level 1", "org": "Persistent Systems" },
+    { "year": "Aug 2026", "icon": "🧠", "title": "Code Assist (Codex AI) — Assessment Level 1", "org": "Persistent Systems" },
+    { "year": "Aug 2026", "icon": "✨", "title": "Code Assist (Cursor AI) — Assessment Level 1", "org": "Persistent Systems" },
+    { "year": "Aug 2026", "icon": "📘", "title": "Quadlift Foundation — Training", "org": "Persistent Systems" },
+    { "year": "Aug 2025", "icon": "🤖", "title": "GitHub Copilot — Assessment Level 1", "org": "Persistent Systems" },
+    { "year": "Jun 2026", "icon": "🏢", "title": "PDEA — AI for Domain SME 7.3, CL 3 — Training", "org": "Persistent Systems" },
+    { "year": "May 2026", "icon": "✨", "title": "Cursor AI — Training", "org": "Persistent Systems" },
+    { "year": "Apr 2026", "icon": "🐙", "title": "GitHub Copilot — Training", "org": "Persistent Systems" },
+    { "year": "Jan 2026", "icon": "🏢", "title": "PDEA — AI for Domain SME 7.1, CL 2 — Training", "org": "Persistent Systems" },
+    { "year": "Jan 2026", "icon": "🏢", "title": "PDEA — AI for Domain SME 5.3, CL 1 — Training", "org": "Persistent Systems" },
+    { "year": "Oct 2026", "icon": "🧩", "title": "PDEA — AI Element 5.2, CL 4 — Training", "org": "Persistent Systems" },
+    { "year": "Sep 2025", "icon": "☁", "title": "Azure Open AI 101 — Selfy Shot", "org": "Persistent Systems" },
+    { "year": "Sep 2025", "icon": "🌟", "title": "iAURA — Selfy Shot", "org": "Persistent Systems" },
+    { "year": "Sep 2025", "icon": "🧠", "title": "GenAI Hub — Selfy Shot", "org": "Persistent Systems" },
+    { "year": "Aug 2025", "icon": "💬", "title": "GenAI Prompt Engineering 101 — Selfy Shot", "org": "Persistent Systems" },
+    { "year": "Aug 2025", "icon": "🧠", "title": "GenAI Foundation — Selfy Shot", "org": "Persistent Systems" }
+  ],
+  "awards": [
+    { "icon": "🏆", "title": "Bravo Award", "org": "Persistent Systems • 2025" },
+    { "icon": "🚀", "title": "Spirit of Winning", "org": "Mphasis • 2018-2019" },
+    { "icon": "🔥", "title": "Relentless Dedication and Hard Work", "org": "Indecomm • 2017-2018" },
+    { "icon": "💜", "title": "Superlative Customer Satisfaction (Q1 and Q2)", "org": "Indecomm • 2016-2017" },
+    { "icon": "💜", "title": "Superlative Customer Satisfaction (Q3 and Q4)", "org": "Indecomm • 2017-2018" }
+  ],
+  "contact": {
+    "formEndpoint": "https://formsubmit.co/ajax/lalitpatil80@gmail.com",
+    "note": "Messages are delivered straight to my inbox — I usually reply within 24 hours."
+  },
+  "footer": "© 2026 Lalit Patil • Crafted with HTML CSS JS + JSON"
+}
